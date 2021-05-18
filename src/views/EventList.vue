@@ -13,7 +13,7 @@ import EventService from "@/services/EventService.js";
 export default {
   name: "EventList",
 
-  components: {
+  components: { 
     EventCard,
   },
 
